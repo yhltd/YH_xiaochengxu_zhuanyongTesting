@@ -1,0 +1,12 @@
+  <view  class="shoifo" >
+      <!-- <input name="inputName"  class="shoifo" bindinput="bindNameInput"  placeholder=""  >  {{app}}  </input> -->
+         <text   >{{text}}</text>
+       
+    </view>
+      <view  class="shoifo1" >
+        <text   >{{text1}}</text>
+          </view>
+        <view>
+      <button class="btn-login" hover-class="btn-login-hover" bindtap="mncp_bt">试算</button>
+    </view>
+

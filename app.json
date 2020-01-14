@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/xinjian/xinjian",
+    "pages/xiugai/xiugai",
+    "pages/shuju/shuju",
+    "pages/logs/logs",
+    "pages/mncp/mncp"
+  ],
+  "sitemapLocation": "sitemap.json"
+}
